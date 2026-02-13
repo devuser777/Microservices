@@ -42,3 +42,6 @@ start docker desktop and start conatiner name- rabbitmq
           │ (Reserve Stock)   │
           └──────────────────┘
 
+
+<img width="1206" height="1012" alt="image" src="https://github.com/user-attachments/assets/9c9462c3-50a9-4bd9-827d-5955b4bec77d" />
+
