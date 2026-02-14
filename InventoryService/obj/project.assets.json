@@ -7964,11 +7964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\InventoryService\\InventoryService.csproj",
+      "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\InventoryService\\InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\InventoryService\\InventoryService.csproj",
+      "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\InventoryService\\InventoryService.csproj",
       "packagesPath": "C:\\Users\\tukar\\.nuget\\packages\\",
-      "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\InventoryService\\obj\\",
+      "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\InventoryService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

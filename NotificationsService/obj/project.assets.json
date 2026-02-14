@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\NotificationsService\\NotificationsService.csproj",
+      "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\NotificationsService\\NotificationsService.csproj",
       "projectName": "NotificationsService",
-      "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\NotificationsService\\NotificationsService.csproj",
+      "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\NotificationsService\\NotificationsService.csproj",
       "packagesPath": "C:\\Users\\tukar\\.nuget\\packages\\",
-      "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\NotificationsService\\obj\\",
+      "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\NotificationsService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

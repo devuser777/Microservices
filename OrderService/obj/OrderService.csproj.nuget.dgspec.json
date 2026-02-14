@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\OrderService\\OrderService.csproj": {}
+    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\OrderService\\OrderService.csproj": {
+    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\tukar\\.nuget\\packages\\",
-        "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\OrderService\\obj\\",
+        "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

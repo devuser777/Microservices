@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\APIGateway\\APIGateway.csproj": {}
+    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\APIGateway\\APIGateway.csproj": {}
   },
   "projects": {
-    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\APIGateway\\APIGateway.csproj": {
+    "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\APIGateway\\APIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\APIGateway\\APIGateway.csproj",
+        "projectUniqueName": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\APIGateway\\APIGateway.csproj",
         "projectName": "APIGateway",
-        "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\APIGateway\\APIGateway.csproj",
+        "projectPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\APIGateway\\APIGateway.csproj",
         "packagesPath": "C:\\Users\\tukar\\.nuget\\packages\\",
-        "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\RabbitMQMassTransit\\APIGateway\\obj\\",
+        "outputPath": "C:\\TM\\Git-Source-Repos\\RabbitMQ\\Microservices\\Microservices\\APIGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

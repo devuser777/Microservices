@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RabbitMQMassTransit/DesignTimeBuild/.dtbcache.v2
+/.vs/RabbitMQMassTransit/FileContentIndex/c28e7430-b1d2-4e49-bfc1-fae8a1b5cdc5.vsidx
+/.vs/RabbitMQMassTransit/v17/.suo
+/.vs/RabbitMQMassTransit/v17/DocumentLayout.json

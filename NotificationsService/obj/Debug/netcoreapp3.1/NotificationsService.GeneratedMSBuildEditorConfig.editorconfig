@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = NotificationsService
+build_property.ProjectDir = C:\TM\Git-Source-Repos\RabbitMQ\Microservices\Microservices\NotificationsService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
