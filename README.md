@@ -50,4 +50,8 @@ start docker desktop and start conatiner name- rabbitmq
 
 <img width="1092" height="432" alt="image" src="https://github.com/user-attachments/assets/3cd2f9a3-c072-4936-9b2d-87bb23a1f788" />
 
+Redis cache implementation:
+<img width="1655" height="922" alt="image" src="https://github.com/user-attachments/assets/527ddb5f-977c-44ab-8587-7337fc1d4040" />
+
+
 
