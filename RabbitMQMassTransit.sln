@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{E7020DC6-7688-43FD-993B-FCA242CCA1E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderService", "OrderService\OrderService.csproj", "{E7020DC6-7688-43FD-993B-FCA242CCA1E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "InventoryService\InventoryService.csproj", "{FD8AEDC8-5870-448A-A1B6-821098EF4750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryService", "InventoryService\InventoryService.csproj", "{FD8AEDC8-5870-448A-A1B6-821098EF4750}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\APIGateway.csproj", "{AE950500-C1E5-4731-9540-B68C27E3B271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationsService", "NotificationsService\NotificationsService.csproj", "{C431FF10-82B2-4511-A9E2-9652C9F13785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AE950500-C1E5-4731-9540-B68C27E3B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE950500-C1E5-4731-9540-B68C27E3B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE950500-C1E5-4731-9540-B68C27E3B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C431FF10-82B2-4511-A9E2-9652C9F13785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C431FF10-82B2-4511-A9E2-9652C9F13785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C431FF10-82B2-4511-A9E2-9652C9F13785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C431FF10-82B2-4511-A9E2-9652C9F13785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

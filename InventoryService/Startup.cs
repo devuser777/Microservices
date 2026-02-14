@@ -1,7 +1,10 @@
+using InventoryService.Data;
+using InventoryService.RedisCache;
 using MassTransit;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -46,13 +49,31 @@ namespace InventoryService
                     });
                 });
 
-                
+
             });
 
             services.AddMassTransitHostedService();
 
+            services.AddDbContext<InventoryDBContext>(options =>
+            {
+                //options.UseSqlServer(builder.Configuration.GetConnectionString("EMSDBConnection"));
+
+                options.UseSqlServer(Configuration.GetConnectionString("InventoryDBConnection"), sqlOptions =>
+                {
+                    sqlOptions.EnableRetryOnFailure();
+                });
+            });
+
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = Configuration.GetValue<string>("Redis");
+                options.InstanceName = "InventoryApp:";
+            });
+
+            services.AddScoped<IInventoryCacheService, InventoryCacheService>();
+
             services.AddControllers();
-            
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
